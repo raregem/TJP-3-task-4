@@ -1,0 +1,46 @@
+* {
+  font-family: "Barlow", sans-serif;
+  background-color: rgba(254, 227, 216, 255);
+  margin: auto;
+}
+
+h3 {
+  margin-left: 450px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+p {
+  font-weight: 100px;
+  margin-left: 450px;
+  margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: 450px;
+  padding: 8px 30px;
+}
+
+th {
+  font-weight: bold;
+}
+
+td {
+  font-weight: lighter;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 450px;
+  height: 38px;
+  width: 120px;
+  background-color: rgb(191, 238, 98);
+  color: rgb(20, 2, 2);
+  border-radius: 12px;
+  font-weight: bold;
+  border-style: none;
+}
