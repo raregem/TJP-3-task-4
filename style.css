@@ -1,18 +1,23 @@
 * {
   font-family: "Barlow", sans-serif;
-  background-color: rgba(254, 227, 216, 255);
+}
+
+.container {
+  width: 40%;
   margin: auto;
+  padding-left: 30px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: rgba(254, 227, 216, 255);
 }
 
 h3 {
-  margin-left: 450px;
-  margin-top: 20px;
-  margin-bottom: 5px;
+  margin-top: 10px;
 }
 
 p {
   font-weight: 100px;
-  margin-left: 450px;
   margin-bottom: 20px;
 }
 
@@ -21,8 +26,7 @@ th,
 td {
   border: 1px solid black;
   border-collapse: collapse;
-  margin-left: 450px;
-  padding: 8px 30px;
+  padding: 20px 40px;
 }
 
 th {
@@ -35,9 +39,8 @@ td {
 
 button {
   margin-top: 20px;
-  margin-left: 450px;
-  height: 38px;
-  width: 120px;
+  margin-bottom: 10px;
+  padding: 10px 20px;
   background-color: rgb(191, 238, 98);
   color: rgb(20, 2, 2);
   border-radius: 12px;
